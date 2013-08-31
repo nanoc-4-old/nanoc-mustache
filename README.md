@@ -4,7 +4,7 @@
 
 # nanoc-mustache
 
-This provides an [Mustache](http://www.methods.co.nz/mustache/) filter for [nanoc](http://nanoc.ws).
+This provides a [Mustache](http://github.com/defunkt/mustache) filter for [nanoc](http://nanoc.ws).
 
 ## Installation
 
