@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.version     = Nanoc::Mustache::VERSION
   s.homepage    = 'http://nanoc.ws/'
   s.summary     = 'Mustache support for nanoc'
-  s.description = 'Provides an :mustache filter for nanoc'
+  s.description = 'Provides a :mustache filter for nanoc'
 
   s.author  = 'Denis Defreyne'
   s.email   = 'denis.defreyne@stoneship.org'
